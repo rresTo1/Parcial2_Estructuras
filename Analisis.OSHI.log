@@ -1,0 +1,46 @@
+2026-09-14 10:56:10 [main] INFO  OSHI - Memoria JVM | usada: 17.59 MB | asignada: 30.00 MB | máxima: 3916.00 MB | uso: 58.64%
+2026-09-14 10:56:10 [main] INFO  OSHI - Memoria física | usada: 13933.96 MB | total: 15658.94 MB | disponible: 1724.97 MB
+2026-09-14 11:05:35 [main] INFO  OSHI - Memoria JVM | usada: 20.32 MB | asignada: 30.00 MB | máxima: 3916.00 MB | uso: 67.74%
+2026-09-14 11:05:35 [main] INFO  OSHI - Memoria física | usada: 14445.37 MB | total: 15658.94 MB | disponible: 1213.57 MB
+2026-09-14 11:09:35 [main] INFO  OSHI - Memoria JVM | usada: 12.58 MB | asignada: 26.00 MB | máxima: 3916.00 MB | uso: 48.38%
+2026-09-14 11:09:35 [main] INFO  OSHI - Memoria física | usada: 14433.64 MB | total: 15658.94 MB | disponible: 1225.29 MB
+2026-09-14 11:19:12 [main] INFO  OSHI - Memoria JVM | usada: 7.77 MB | asignada: 28.00 MB | máxima: 3916.00 MB | uso: 27.74%
+2026-09-14 11:19:12 [main] INFO  OSHI - Memoria física | usada: 14928.51 MB | total: 15658.94 MB | disponible: 730.43 MB
+2026-09-14 12:01:39 [main] INFO  OSHI - Memoria JVM | usada: 20.53 MB | asignada: 30.00 MB | máxima: 3916.00 MB | uso: 68.43%
+2026-09-14 12:01:39 [main] INFO  OSHI - Memoria física | usada: 14461.53 MB | total: 15658.94 MB | disponible: 1197.41 MB
+2026-09-14 13:14:29 [main] INFO  OSHI - Memoria JVM | usada: 6.51 MB | asignada: 30.00 MB | máxima: 3916.00 MB | uso: 21.70%
+2026-09-14 13:14:29 [main] INFO  OSHI - Memoria física | usada: 14809.23 MB | total: 15658.94 MB | disponible: 849.70 MB
+2026-09-14 13:15:41 [main] INFO  OSHI - Memoria JVM | usada: 6.09 MB | asignada: 30.00 MB | máxima: 3916.00 MB | uso: 20.29%
+2026-09-14 13:15:41 [main] INFO  OSHI - Memoria física | usada: 14798.84 MB | total: 15658.94 MB | disponible: 860.10 MB
+2026-09-14 13:19:24 [main] INFO  OSHI - Memoria JVM | usada: 8.35 MB | asignada: 28.00 MB | máxima: 3916.00 MB | uso: 29.83%
+2026-09-14 13:19:24 [main] INFO  OSHI - Memoria física | usada: 14658.66 MB | total: 15658.94 MB | disponible: 1000.28 MB
+2026-09-14 13:19:54 [main] INFO  OSHI - Memoria JVM | usada: 11.58 MB | asignada: 26.00 MB | máxima: 3916.00 MB | uso: 44.55%
+2026-09-14 13:19:54 [main] INFO  OSHI - Memoria física | usada: 14743.71 MB | total: 15658.94 MB | disponible: 915.23 MB
+2026-09-14 13:20:25 [main] INFO  OSHI - Memoria JVM | usada: 6.40 MB | asignada: 30.00 MB | máxima: 3916.00 MB | uso: 21.34%
+2026-09-14 13:20:25 [main] INFO  OSHI - Memoria física | usada: 14834.99 MB | total: 15658.94 MB | disponible: 823.95 MB
+2026-09-14 13:20:46 [main] INFO  OSHI - Memoria JVM | usada: 20.63 MB | asignada: 30.00 MB | máxima: 3916.00 MB | uso: 68.78%
+2026-09-14 13:20:46 [main] INFO  OSHI - Memoria física | usada: 14622.06 MB | total: 15658.94 MB | disponible: 1036.88 MB
+2026-09-14 13:21:31 [main] INFO  OSHI - Memoria JVM | usada: 11.07 MB | asignada: 26.00 MB | máxima: 3916.00 MB | uso: 42.60%
+2026-09-14 13:21:31 [main] INFO  OSHI - Memoria física | usada: 14664.84 MB | total: 15658.94 MB | disponible: 994.09 MB
+2026-09-14 13:23:54 [main] INFO  OSHI - Memoria JVM | usada: 6.26 MB | asignada: 30.00 MB | máxima: 3916.00 MB | uso: 20.87%
+2026-09-14 13:23:54 [main] INFO  OSHI - Memoria física | usada: 14792.87 MB | total: 15658.94 MB | disponible: 866.07 MB
+2026-09-14 13:29:26 [main] INFO  OSHI - Memoria JVM | usada: 9.92 MB | asignada: 22.00 MB | máxima: 3916.00 MB | uso: 45.10%
+2026-09-14 13:29:26 [main] INFO  OSHI - Memoria física | usada: 14852.91 MB | total: 15658.94 MB | disponible: 806.03 MB
+2026-09-14 13:30:35 [main] INFO  OSHI - Memoria JVM | usada: 6.37 MB | asignada: 30.00 MB | máxima: 3916.00 MB | uso: 21.23%
+2026-09-14 13:30:35 [main] INFO  OSHI - Memoria física | usada: 14864.60 MB | total: 15658.94 MB | disponible: 794.34 MB
+2026-09-14 13:36:01 [main] INFO  OSHI - Memoria JVM | usada: 6.31 MB | asignada: 30.00 MB | máxima: 3916.00 MB | uso: 21.04%
+2026-09-14 13:36:01 [main] INFO  OSHI - Memoria física | usada: 14812.89 MB | total: 15658.94 MB | disponible: 846.04 MB
+2026-09-14 13:39:33 [main] INFO  OSHI - Memoria JVM | usada: 8.73 MB | asignada: 90.00 MB | máxima: 3916.00 MB | uso: 9.69%
+2026-09-14 13:39:33 [main] INFO  OSHI - Memoria física | usada: 15126.22 MB | total: 15658.94 MB | disponible: 532.72 MB
+2026-09-14 13:44:32 [main] INFO  OSHI - Memoria JVM | usada: 12.08 MB | asignada: 84.00 MB | máxima: 3916.00 MB | uso: 14.38%
+2026-09-14 13:44:32 [main] INFO  OSHI - Memoria física | usada: 14744.00 MB | total: 15658.94 MB | disponible: 914.94 MB
+2026-09-14 13:51:53 [main] INFO  OSHI - Memoria JVM | usada: 23.64 MB | asignada: 90.00 MB | máxima: 3916.00 MB | uso: 26.26%
+2026-09-14 13:51:53 [main] INFO  OSHI - Memoria física | usada: 14848.37 MB | total: 15658.94 MB | disponible: 810.57 MB
+2026-09-14 13:55:15 [main] INFO  OSHI - Memoria JVM | usada: 27.03 MB | asignada: 84.00 MB | máxima: 3916.00 MB | uso: 32.18%
+2026-09-14 13:55:15 [main] INFO  OSHI - Memoria física | usada: 14751.05 MB | total: 15658.94 MB | disponible: 907.89 MB
+2026-09-14 13:59:57 [main] INFO  OSHI - Memoria JVM | usada: 27.37 MB | asignada: 84.00 MB | máxima: 3916.00 MB | uso: 32.58%
+2026-09-14 13:59:57 [main] INFO  OSHI - Memoria física | usada: 14611.68 MB | total: 15658.94 MB | disponible: 1047.26 MB
+2026-09-14 14:01:59 [main] INFO  OSHI - Memoria JVM | usada: 23.23 MB | asignada: 90.00 MB | máxima: 3916.00 MB | uso: 25.81%
+2026-09-14 14:01:59 [main] INFO  OSHI - Memoria física | usada: 14707.58 MB | total: 15658.94 MB | disponible: 951.36 MB
+2026-09-14 14:43:01 [main] INFO  OSHI - Memoria JVM | usada: 17.31 MB | asignada: 38.00 MB | máxima: 3916.00 MB | uso: 45.56%
+2026-09-14 14:43:01 [main] INFO  OSHI - Memoria física | usada: 13603.28 MB | total: 15658.94 MB | disponible: 2055.66 MB
